@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "img": "https://static.posters.cz/image/1300/poster/harry-potter-la-pietra-filosofale-i104639.jpg",
+    "nome": "Harry Potter",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 2,
+    "img": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "nome": "Il Signore degli anelli",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 3,
+    "img": "https://p325k7wa.twic.pics/high/dragon-ball/dragonball-xenoverse-2/00-page-setup/dbxv2_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80",
+    "nome": "Dragon Ball",
+    "genere": "Cartoni Animati"
+  },
+  {
+    "id": 4,
+    "img": "https://musicart.xboxlive.com/7/4ca85000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "nome": "Ready Player One",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 5,
+    "img": "https://m.media-amazon.com/images/I/815NHZMF6-L._UF1000,1000_QL80_.jpg",
+    "nome": "Twilight",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 6,
+    "img": "https://m.media-amazon.com/images/M/MV5BZDE4M2ZiYzEtODJiZC00NmI1LWFlNTgtOGJlNTY3NmExYWNjXkEyXkFqcGc@._V1_.jpg",
+    "nome": "Percy Jackson",
+    "genere": "Azione"
+  },
+  {
+    "id": 7,
+    "img": "https://puzzlemania-154aa.kxcdn.com/products/2024/puzzle-clementoni-1000-pieces-compact-anime-naruto-shippuden-ii.webp",
+    "nome": "Naruto",
+    "genere": "Cartoni Animati"
+  },
+  {
+    "id": 8,
+    "img": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8193447_p_v8_au.jpg",
+    "nome": "Limitless",
+    "genere": "Azione"
+  },
+  {
+    "id": 9,
+    "img": "https://media-assets.wired.it/photos/615f18b351e4a6072a85bfe1/3:2/w_885,h_590,c_limit/1490087815_big-bang-theory-cast.jpg",
+    "nome": "The Big Bang Theory",
+    "genere": "Commedia"
+  },
+  {
+    "id": 10,
+    "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/05/saga-skywalker-star-wars-2347755.jpg?tf=1200x1200",
+    "nome": "Star Wars",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 11,
+    "img": "https://static.thcdn.com/images/large/original//productimg/1600/1600/12388864-2114815086327868.jpg",
+    "nome": "Suits",
+    "genere": "Serie TV"
+  },
+  {
+    "id": 12,
+    "img": "https://orgoglionerd.it/wp-content/uploads/2020/11/prison-break-wentworth-miller.jpg",
+    "nome": "Prison Break",
+    "genere": "Serie TV"
+  },
+  {
+    "id": 13,
+    "img": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+    "nome": "Games of Thrones",
+    "genere": "Serie TV"
+  },
+  {
+    "id": 14,
+    "img": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
+    "nome": "Breaking Bad",
+    "genere": "Serie TV"
+  },
+  {
+    "id": 15,
+    "img": "https://m.media-amazon.com/images/I/91RRPUOlN3L._AC_UF1000,1000_QL80_.jpg",
+    "nome": "Spider-man",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 16,
+    "img": "https://leganerd.com/wp-content/uploads/2019/04/avengers-endgame-poster-square-crop.jpg?width=1280&height=720&quality=20",
+    "nome": "Avengers : Endgame",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 17,
+    "img": "https://i.ebayimg.com/images/g/0lQAAOSw2V5kXARP/s-l1200.jpg",
+    "nome": "Cars",
+    "genere": "Cartoni Animati"
+  },
+  {
+    "id": 18,
+    "img": "https://m.media-amazon.com/images/I/81MJp6wKVYL.jpg",
+    "nome": "Pulp Fiction",
+    "genere": "Azione"
+  },
+  {
+    "id": 19,
+    "img": "https://movieplayer.net-cdn.it/t/images/2024/03/31/how-i-met-your-mother-10-anni-dopo-finale-serie-controverso_cropped_1_13_1600_912_jpeg_1600x900_crop_q85.jpg",
+    "nome": "HIMYM",
+    "genere": "Commedia"
+  },
+  {
+    "id": 20,
+    "img": "https://images-0.rakuten.tv/storage/snapshot/shot/9398d63f-d13c-4add-b33f-52b0164244c8-snapshot-1590658281-width936-quality90.jpeg",
+    "nome": "Eragon",
+    "genere": "Fantasy"
+  },
+  {
+    "id": 21,
+    "img": "https://cdn.bestmovie.it/wp-content/uploads/2024/08/john-wick-5.jpg",
+    "nome": "John Wick",
+    "genere": "Azione"
+  },
+  {
+    "id": 22,
+    "img": "https://www.spietati.it/wp-content/uploads/2010/11/BENVENUTI-AL-SUD-ant.jpg",
+    "nome": "Benvenuti al Sud",
+    "genere": "Commedia"
+  },
+  {
+    "id": 23,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3gNbO80v5IZmb02dFoAWRHsS3jw-6CokWw&s",
+    "nome": "Yu-Gi-Oh",
+    "genere": "Cartoni Animati"
+  },
+  {
+    "id": 24,
+    "img": "https://cdn.britannica.com/82/198682-050-0EB80673/cast-Greys-Anatomy.jpg",
+    "nome": "Greys Anatomy",
+    "genere": "Serie TV"
+  }
+]
